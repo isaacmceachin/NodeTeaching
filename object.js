@@ -22,3 +22,13 @@ isaac.greet();
 
 //print object isaac to console
 console.log(isaac);
+
+/*
+	{
+		key1: value1,
+		key2: value2,
+		key3: value3,
+		key4: value4,
+			...
+	}
+*/
